@@ -1,10 +1,10 @@
 # Hello 👋, I am
-'''shell
+```shell
    ___           __ 
   / _ )___ _____/ /_
  / _  / _ `/ __/ __/
 /____/\_,_/_/  \__/ 
-'''
+```
 <!--
 **BJankow/BJankow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
