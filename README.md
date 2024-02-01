@@ -7,8 +7,7 @@
 ```
 
 # 💼 Projects
-See my landing page
-<link[! Portfolio] https://bjankow.github.io />
+See my [Portfolio](https://bjankow.github.io)
 
 # 🧑🏼‍💻 Tools
 <!-- SOURCE: https://github.com/Ileriayo/markdown-badges -->
