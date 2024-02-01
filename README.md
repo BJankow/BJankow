@@ -8,7 +8,7 @@
 
 # 💼 Projects
 See my landing page
-https://bjankow.github.io/
+<link[! Portfolio] https://bjankow.github.io />
 
 # 🧑🏼‍💻 Tools
 <!-- SOURCE: https://github.com/Ileriayo/markdown-badges -->
