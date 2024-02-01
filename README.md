@@ -1,4 +1,8 @@
-# Hello 👋, I am Bart
+# Hello 👋, I am
+   ___           __ 
+  / _ )___ _____/ /_
+ / _  / _ `/ __/ __/
+/____/\_,_/_/  \__/ 
 
 <!--
 **BJankow/BJankow** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,6 +18,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# 💼 Projects
 
 # 🧑🏼‍💻 Tools
 <!-- SOURCE: https://github.com/Ileriayo/markdown-badges -->
